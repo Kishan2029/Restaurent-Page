@@ -10,7 +10,7 @@ const Footer = () => {
     <div className="bg-[#FFF0DB] mt-32 pb-24">
       <div className="flex justify-evenly gap-2 p-14 ">
         {/* logl */}
-        <img className="h-16 w-36" src={Logo} />
+        {/* <img className="h-16 w-36" src={Logo} /> */}
         {/* Main Link */}
         <div>
           <div className="font-bold text-xl text-[#565656] mb-3">Main Link</div>
