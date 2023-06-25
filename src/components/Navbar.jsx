@@ -1,6 +1,6 @@
 import React from "react";
 import Burger from "../assets/vector.png";
-import Logo from "../assets/logo.svg";
+// import Logo from "../assets/logo.svg";
 
 function Navbar() {
   return (
