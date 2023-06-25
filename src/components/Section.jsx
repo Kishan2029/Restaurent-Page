@@ -1,5 +1,5 @@
 import React from "react";
-import Food from "../assets/Food.png";
+import Food from "../assets/food.png";
 import { data } from "../Data/data1";
 
 function Section() {
