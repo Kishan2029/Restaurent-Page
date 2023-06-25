@@ -1,5 +1,5 @@
 import React from "react";
-import Food from "../assets/Food.svg";
+// import Food from "../assets/Food.svg";
 import { data } from "../Data/data1";
 
 function Section() {
@@ -8,7 +8,8 @@ function Section() {
       {/* Food and Explore Now Section */}
       <div className="flex space-x-24 mt-12 mx-8">
         <div>
-          <img className="ml-8 h-108 w-108" src={Food} />
+          Hi
+          {/* <img className="ml-8 h-108 w-108" src={Food} /> */}
         </div>
         <div className="flex flex-col m-auto">
           <div className="px-8 py-2 bg-[#149F39] w-fit">
